@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- 1️⃣ THE MEDIA OVERLORD GIF (original size) -->
-  <img src="media_overlord_YES.gif" width="800" height="600" alt="THE MEDIA OVERLORD">
+  <img src="VOXYES.gif" width="800" height="600" alt="THE MEDIA OVERLORD">
 
   <!-- 2️⃣ VOX Profile Picture (bigger now) -->
-  <img src="VOX_PFP.png" alt="VOX Profile Picture" width="700" style="margin-top:-10px;"> <!-- slightly bigger -->
+  <img src="VOX_PFP.png" alt="VOX Profile Picture" width="500" style="margin-top:-10px;"> <!-- slightly bigger -->
 
   <br><br> <!-- space before LaTeX text -->
 
