@@ -4,7 +4,7 @@
   <img src="VOXYES.gif" width="800" height="600" alt="THE MEDIA OVERLORD">
 
   <!-- 2️⃣ VOX Profile Picture (bigger now) -->
-  <img src="13o6" alt="VOX Profile Picture" width="500" style="margin-top:-10px;"> <!-- slightly bigger -->
+  <img src="13o7.png" alt="VOX Profile Picture" width="500" style="margin-top:-10px;"> <!-- slightly bigger -->
 
   <br><br> <!-- space before LaTeX text -->
 
