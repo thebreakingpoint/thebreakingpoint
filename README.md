@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 1️⃣ THE MEDIA OVERLORD GIF (original size) -->
-  <img src="VOXYES.gif" width="800" height="600" alt="THE MEDIA OVERLORD">
-
   <!-- 2️⃣ VOX Profile Picture (bigger now) -->
   <img src="PUZZLESICON.png" alt="PUZZLESICON" width="500" style="margin-top:-10px;"> <!-- slightly bigger -->
 
